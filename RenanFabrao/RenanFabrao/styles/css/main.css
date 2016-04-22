@@ -31,6 +31,10 @@ p {
     margin-bottom: 25px;
 }
 
+p.tx-fit {
+    margin-bottom: 5px;
+}
+
 .centered {
     text-align: center;
 }
