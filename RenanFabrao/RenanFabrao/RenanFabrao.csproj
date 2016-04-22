@@ -125,6 +125,7 @@
     <Content Include="images\icons\icon_testimonials.png" />
     <Content Include="images\icons\icon_twitter.png" />
     <Content Include="images\icons\icon_works.png" />
+    <Content Include="images\icons\icon_instagram.png" />
     <Content Include="images\port01.jpg" />
     <Content Include="images\port02.jpg" />
     <Content Include="images\port03.jpg" />
